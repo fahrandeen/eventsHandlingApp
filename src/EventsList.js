@@ -71,7 +71,7 @@ class EventsList extends Component {
   render() {
     return (
       <div>
-        <h2>Example App 20200410</h2>
+        <h2>My First Event Handling App</h2>
         <h3>Add New Event</h3>
         <form onSubmit={this.handleSubmit}>
           <input
